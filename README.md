@@ -13,10 +13,10 @@
 💖 My favorite things to work on are **Vue**, **PHP** and **JavaScript**. I love creating **Tools** and **Utilities** making my life easier!
 <br>
 <br>
-💻 I have experience with **Nuxt, MySQL, Docker deployment, Linux,Apache**
+💻 I have experience with **Nuxt, MySQL, Docker**
 <br>
 <br>
-👯 Aspiring learning **Ruby, AWS**
+👯 Aspiring learning **React, AWS**
 
 ## 📫 How to reach me:
 
