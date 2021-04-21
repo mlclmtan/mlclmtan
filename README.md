@@ -35,20 +35,34 @@
 </div>
 <!-- programming langs i work-->
 <p align="center">
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/codeigniter/codeigniter-plain.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" width="25px" height="25px"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" width="25px" height="25px"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/es6.svg" width="25px" height="25px"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" width="25px" height="25px"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" width="25px" height="25px"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" width="25px" height="25px"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="25px" height="25px"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" width="25px" height="25px"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/kotlin.svg" width="25px" height="25px"/>
+</p>
+<p align="center">
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/nuxt-icon.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-cloud.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/aws.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/nginx.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/apache.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" width="25px" height="25px"/>
+</p>
+<p align="center">
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/apple.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/ubuntu.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/github.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/gitlab.svg" width="25px" height="25px"/>
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" width="25px" height="25px"/>
 </p>
 
