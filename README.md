@@ -1,5 +1,5 @@
 # Hi there, I am Malcolm Tan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
-### ...an **Aspiring Front End Engineer** with hands on experience in **Web Frontend** and **Backend** development
+### ...a **Front End Engineer** aspire to master **React, DevOps**
 
 
 <a href="https://github.com/mlclmtan">
@@ -10,13 +10,10 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
-💖 My favorite things to work on are **Vue**, **PHP** and **JavaScript**. I love creating **Tools** and **Utilities** making my life easier!
+💖 My favorite things to work on are **Vue/React**, **PHP** and **JavaScript**. I love creating **Tools** and **Utilities** making my life easier!
 <br>
 <br>
-💻 I have experience with **Nuxt, MySQL, Docker, setting up web server**
-<br>
-<br>
-👯 Aspiring learning **React, AWS**
+💻 Other tools I've tried out are **Nuxt** from Vue, **MongoDB, MySQL**, **Docker, AWS, setting up web server**
 
 ## 📫 How to reach me:
 
