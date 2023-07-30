@@ -1,5 +1,5 @@
 # Hi there, I am Malcolm Tan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
-### ...a **Front End Engineer** aspire to master **React, DevOps**
+### ...a **Frontend Engineer** at 9-5, but when the clock strikes 5, I transform into a fullstack extraordinaire
 
 
 <a href="https://github.com/mlclmtan">
@@ -10,20 +10,19 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
-💖 My favorite things to work on are **Vue/React**, **PHP** and **JavaScript**. I love creating **Tools** and **Utilities** making my life easier!
+💖 My favorite things to work on are **Vue/React**, **Go/Node.js** and **DevOps stuffs**. I love creating **Tools** to make my life easier!
 <br>
 <br>
-💻 Other tools I've tried out are **Nuxt** from Vue, **MongoDB, MySQL**, **Docker, AWS, setting up web server**
+💻 Currently I'm working on a personal finance management system, aspiring to track savings and investments. I'm building the backend with **GO**, frontend with **Vue**, and hopefully setup the log monitor with **Kibana or Prometheus**.
 
 ## 📫 How to reach me:
 
 
-📷 Instagram: [@mlclmtan](https://www.instagram.com/mlclmtan/)<br>
 🧳 LinkedIn: [Malcolm Tan](https://www.linkedin.com/in/mlclmtan/)
 <br>
 
 ## ⚡ Fun fact:
-* I'm doing 100 days of badminton challenge every week!
+* I'm doing 100 days of badminton challenge every day!
 
 <div align="center">
 
